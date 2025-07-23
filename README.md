@@ -107,7 +107,7 @@ aws dynamodb delete-table --table-name terraform-locks
 
 ## 📌 Author
 
-Annu Lohan - [LinkedIn](www.linkedin.com/in/annu-rani-lohan-069146ba)
+Annu Lohan - [LinkedIn](https://www.linkedin.com/in/annu-rani-lohan-069146ba)
 
 ## 📜 License
 
